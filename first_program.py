@@ -1,4 +1,4 @@
 test = '1'
 if test == '1':
     print('norm')
-print('govno')
+print('соси говно лох')
